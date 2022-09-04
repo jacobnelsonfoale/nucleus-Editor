@@ -3,10 +3,10 @@ Simple Hackable editor made with Python
 
 [Put Image Here]
 
-##Dependencies
+## Dependencies
 [This section needs editing]
 
-##Install process 
+## Install process 
 
 Clone this github repo
 `git clone https://github.com/Dunn-Dev8/nucleolusTextEditor`
@@ -20,5 +20,5 @@ chmod +x installer.sh
 Run installer.sh
 ./installer.sh
 
-##Build and edit your own version
+## Build and edit your own version
 [This section needs editing]
