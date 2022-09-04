@@ -12,13 +12,13 @@ Clone this github repo
 `git clone https://github.com/Dunn-Dev8/nucleolusTextEditor`
 
 Go to the installers Directory
-`cd /nucleolusTextEditor/Installer`
+`cd nucleolusTextEditor/Installer`
 
 Make sure the installer.sh is executable
-`chmod +x installer.sh`
+`chmod +x install.sh`
 
 Run installer.sh
-`./installer.sh`
+`./install.sh`
 
 ## Build and edit your own version
 [This section needs editing]
