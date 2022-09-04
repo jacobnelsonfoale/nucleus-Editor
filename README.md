@@ -15,10 +15,10 @@ Go to the installers Directory
 `cd /nucleolusTextEditor/Installer`
 
 Make sure the installer.sh is executable
-chmod +x installer.sh
+`chmod +x installer.sh`
 
 Run installer.sh
-./installer.sh
+`./installer.sh`
 
 ## Build and edit your own version
 [This section needs editing]
