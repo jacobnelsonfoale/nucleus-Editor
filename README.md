@@ -4,7 +4,8 @@ Simple Hackable editor made with Python
 [Put Image Here]
 
 ## Dependencies
-[This section needs editing]
+
+- Python3
 
 ## Install process 
 
@@ -20,5 +21,7 @@ Make sure the installer.sh is executable
 Run installer.sh
 `./install.sh`
 
+To open nycleolusText Run
+`nucleolusTextEditor`
 ## Build and edit your own version
 [This section needs editing]
