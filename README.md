@@ -6,6 +6,7 @@ Simple Hackable editor made with Python
 ## Dependencies
 
 - Python3
+- tk
 
 ## Install process 
 
