@@ -27,5 +27,5 @@ Run installer.sh
 
 To open nycleolusText Run
 `nucleolusTextEditor`
-## Build and edit your own version
-[This section needs editing]
+
+
