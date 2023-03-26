@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=nucleolusText
-GenericName=Text Editor
-Comment=Generic and Hackable Text Editor
-Exec=nucleolusTe %F
-Terminal=false
-Type=Application
-Categories=Development
