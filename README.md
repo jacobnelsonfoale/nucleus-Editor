@@ -1,14 +1,17 @@
 # nucleolusTextEditor
 Simple Hackable editor made with Python
 
-[Put Image Here]
+# DISCLAMER
+At the moment NucleousTextEditor is getting changed quite alot and so most of this README will be inacurrate at the moment. If you would like to try the text editor then run the main.py and have the required dependencies installed. Thanks for taking the time to lookover Nucleous Text Editor.
 
 ## Dependencies
 
 - Python3
 - tk
 
-## Install process 
+
+
+## Install process *Might not work due to recent update*
 
 Clone this github repo
 `git clone https://github.com/Dunn-Dev8/nucleolusTextEditor`
