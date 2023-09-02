@@ -1,4 +1,4 @@
-# nucleolusTextEditor
+# nucleus-Editor
 Simple Hackable editor made with Python
 
 # DISCLAMER
