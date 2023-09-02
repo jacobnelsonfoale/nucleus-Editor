@@ -4,6 +4,8 @@ Simple Hackable editor made with Python
 # DISCLAMER
 At the moment NucleousTextEditor is getting changed quite alot and so most of this README will be inacurrate at the moment. There are binaries avalable if you would like to use the text editor just as is. if you would like to edit the sourse code it is contained in the main.py file. Binaries are generated with pyinstaller, check the article below to make your own compiled version of Nucleolus Text Editor
 
+Build Your Own Version: https://pyinstaller.org/en/stable/operating-mode.html#bundling-to-one-folder
+
 ## Dependencies
 
 - Python3
