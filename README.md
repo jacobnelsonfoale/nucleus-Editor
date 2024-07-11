@@ -13,6 +13,6 @@ At the moment NucleousTextEditor is getting changed quite alot and so most of th
 
 
 
-* Installer has been removed so adding the executable to Os's path will need to be done manually *
+** Installer has been removed so adding the executable to Os's path will need to be done manually
 
 
