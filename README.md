@@ -28,3 +28,6 @@ Find Location of path `echo $PATH`
 Run command to make sure everything is working properly `NT`
 
 *If you run into any problems try to repeat the install steps once again to make sure something did not go wrong.*
+
+# Windows
+You can run nucleus-editor under windows but no documentation has been written yet. Consult the wiki for eny updates or changes https://github.com/jacobnelsonfoale/nucleus-Editor/wiki/Getting-Started#windows.
