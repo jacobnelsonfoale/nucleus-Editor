@@ -13,21 +13,6 @@ At the moment NucleousTextEditor is getting changed quite alot and so most of th
 
 
 
-## Install process *Might not work due to recent update*
-
-Clone this github repo
-`git clone https://github.com/jacobnelsonfoale/nucleolusTextEditor`
-
-Go to the installers Directory
-`cd nucleolusTextEditor/Installer`
-
-Make sure the installer.sh is executable
-`chmod +x install.sh`
-
-Run installer.sh
-`./install.sh`
-
-To open nycleolusText Run
-`nucleolusTextEditor`
+** Installer has been removed so adding the executable to Os's path will need to be done manually **
 
 
